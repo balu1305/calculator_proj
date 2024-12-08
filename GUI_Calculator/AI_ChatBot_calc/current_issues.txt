@@ -1,4 +1,0 @@
-1.chatcompletion and completion in open ai is not usable for version >= 1.0.0 but my version is 1.35.x 
--> eventhough i tried to upgrade openai version .. still the same error is poping up ..
-
-2.I can degrade my version to 0.28 ... should try that ..
