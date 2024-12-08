@@ -1,0 +1,9 @@
+Suggestions update dynamically based on the input in the expression field.
+
+Suggestions appear below the calculator buttons in a dedicated section.
+
+After evaluation (= button), suggestions are updated accordingly.
+
+Suggestions clear when the user clears the input.
+
+-> can add more suggestions into my working code --> i added some example suggestions
