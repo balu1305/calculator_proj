@@ -18,6 +18,7 @@ Square root (sqrt)
 Factorial (!)
 Power (**)
 Parentheses support
+
 2️⃣ Smart Math Suggestions (Real-time Hints)
 Auto-suggestions based on entered expressions
 Provides:
